@@ -6,8 +6,8 @@
         5749,
         32
       ],
-      "tensorPath": "https://github.com/shuningjin/embedding-projector/raw/master/sts_train_vec2.tsv",
-      "metadataPath": "https://github.com/shuningjin/embedding-projector/raw/master/sts_train_sent2.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/shuningjin/embedding-projector/master/sts_train_vec2.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/shuningjin/embedding-projector/master/sts_train_sent2.tsv"
     }
   ]
 }
