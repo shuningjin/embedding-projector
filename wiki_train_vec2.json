@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "vec2",
+      "tensorShape": [
+        100000,
+        32
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/shuningjin/embedding-projector/master/wiki_train_vec2.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/shuningjin/embedding-projector/master/wiki_train_sent2.tsv"
+    }
+  ]
+}
