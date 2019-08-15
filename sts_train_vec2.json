@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "vec2",
+      "tensorShape": [
+        5749,
+        32
+      ],
+      "tensorPath": "https://drive.google.com/open?id=1tRiGsP6gjXeOmKc0nWkQCle1wfoa4LBe",
+      "metadataPath": "https://drive.google.com/open?id=11Pi2LimxVVjNRkq_2RqAAdxr5VzSYeqZ"
+    }
+  ]
+}
