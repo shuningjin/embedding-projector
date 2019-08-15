@@ -6,8 +6,8 @@
         5749,
         32
       ],
-      "tensorPath": "https://drive.google.com/open?id=1tRiGsP6gjXeOmKc0nWkQCle1wfoa4LBe",
-      "metadataPath": "https://drive.google.com/open?id=11Pi2LimxVVjNRkq_2RqAAdxr5VzSYeqZ"
+      "tensorPath": "https://github.com/shuningjin/embedding-projector/raw/master/sts_train_vec2.tsv",
+      "metadataPath": "https://github.com/shuningjin/embedding-projector/raw/master/sts_train_sent2.tsv"
     }
   ]
 }
