@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "vec3",
+      "tensorShape": [
+        100000,
+        32
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/shuningjin/embedding-projector/master/lstm3-2/wiki_train_vec3.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/shuningjin/embedding-projector/master/lstm3-2/wiki_train_sent3.tsv"
+    }
+  ]
+}

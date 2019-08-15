@@ -1,0 +1,12 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "vec3",
+      "tensorShape": [
+        32768,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/shuningjin/embedding-projector/master/lstm3-2/vec3.tsv"
+    }
+  ]
+}
