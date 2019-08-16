@@ -1,0 +1,12 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "vec2",
+      "tensorShape": [
+        32768,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/shuningjin/embedding-projector/master/lstm2-6/vec2.tsv"
+    }
+  ]
+}
